@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\02. Sort-Words\bin\Debug\_02.Sort_Words.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\02. Sort-Words\bin\Debug\_02.Sort_Words.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\02. Sort-Words\bin\Debug\_02.Sort_Words.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\02. Sort-Words\obj\Debug\_02.Sort_Words.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\02. Sort-Words\obj\Debug\_02.Sort_Words.pdb

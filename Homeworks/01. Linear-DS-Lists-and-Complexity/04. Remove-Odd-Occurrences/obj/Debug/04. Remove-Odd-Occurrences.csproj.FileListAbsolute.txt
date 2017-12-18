@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\bin\Debug\_04.Remove_Odd_Occurrences.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\bin\Debug\_04.Remove_Odd_Occurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\bin\Debug\_04.Remove_Odd_Occurrences.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\obj\Debug\_04.Remove_Odd_Occurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\obj\Debug\_04.Remove_Odd_Occurrences.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\04. Remove-Odd-Occurrences\obj\Debug\04. Remove-Odd-Occurrences.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\06. Implement-the-Data-Structure-ReversedList-T\bin\Debug\_06.Implement_the_Data_Structure_ReversedList_T.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\06. Implement-the-Data-Structure-ReversedList-T\bin\Debug\_06.Implement_the_Data_Structure_ReversedList_T.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\06. Implement-the-Data-Structure-ReversedList-T\bin\Debug\_06.Implement_the_Data_Structure_ReversedList_T.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\06. Implement-the-Data-Structure-ReversedList-T\obj\Debug\_06.Implement_the_Data_Structure_ReversedList_T.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\06. Implement-the-Data-Structure-ReversedList-T\obj\Debug\_06.Implement_the_Data_Structure_ReversedList_T.pdb
