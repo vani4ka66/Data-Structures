@@ -4,3 +4,6 @@ c:\users\user\documents\visual studio 2015\Projects\DataStructutes\03. Longest-S
 c:\users\user\documents\visual studio 2015\Projects\DataStructutes\03. Longest-Subsequence\obj\Debug\03. Longest-Subsequence.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\DataStructutes\03. Longest-Subsequence\obj\Debug\_03.Longest_Subsequence.exe
 c:\users\user\documents\visual studio 2015\Projects\DataStructutes\03. Longest-Subsequence\obj\Debug\_03.Longest_Subsequence.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\03. Longest-Subsequence\bin\Debug\_03.Longest_Subsequence.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\03. Longest-Subsequence\obj\Debug\_03.Longest_Subsequence.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\03. Longest-Subsequence\obj\Debug\_03.Longest_Subsequence.pdb

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06.Implement_the_Data_Structure_ReversedList_T
+namespace _08. Implement-a-DoublyLinkedList-T
 {
     class Program
     {

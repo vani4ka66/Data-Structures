@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Implement-a-DoublyLinke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DoublyLinkedLists.Tests", "08.DoublyLinkedLists.Tests\08.DoublyLinkedLists.Tests.csproj", "{77D9E52D-200F-43E6-A905-F52E4F60AAA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Distance-in-Labyrinth", "07. Distance-in-Labyrinth\07. Distance-in-Labyrinth.csproj", "{2FCE4105-7380-4BC0-B9F7-6E400324C2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Implement-the-Data-Structure-ReversedListT", "06. Implement-the-Data-Structure-ReversedListT\06. Implement-the-Data-Structure-ReversedListT.csproj", "{28DB82CC-56E8-4166-9F1A-4EE27CEF3938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{77D9E52D-200F-43E6-A905-F52E4F60AAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77D9E52D-200F-43E6-A905-F52E4F60AAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77D9E52D-200F-43E6-A905-F52E4F60AAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCE4105-7380-4BC0-B9F7-6E400324C2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCE4105-7380-4BC0-B9F7-6E400324C2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCE4105-7380-4BC0-B9F7-6E400324C2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCE4105-7380-4BC0-B9F7-6E400324C2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DB82CC-56E8-4166-9F1A-4EE27CEF3938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DB82CC-56E8-4166-9F1A-4EE27CEF3938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DB82CC-56E8-4166-9F1A-4EE27CEF3938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DB82CC-56E8-4166-9F1A-4EE27CEF3938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
