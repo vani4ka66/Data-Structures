@@ -1,0 +1,6 @@
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+D:\Softuni Videos\Структури от данни\Homeworks\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

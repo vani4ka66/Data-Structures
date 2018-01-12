@@ -184,7 +184,18 @@ namespace _08. Implement-a-DoublyLinkedList-T
 
         public T[] ToArray()
         {
-            throw new ArgumentException();
+            var resultArr = new T[this.Count];
+            CopyAllElements(resultArr);
+            return resultArr;
         }
+
+ 	    private void CopyAllElements(T[] newElements)
+            {
+                for (int i = 0; i < this.Count; i++)
+                {
+                    newElements[i] = this.head.Value;
+			this.head = this.head.NextNode;
+                }
+            }
     }
 }
