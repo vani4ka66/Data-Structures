@@ -1,8 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\obj\Debug\08.DoublyLinkedLists.Tests.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\bin\Debug\08.DoublyLinkedLists.Tests.dll
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\bin\Debug\08.DoublyLinkedLists.Tests.pdb
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\bin\Debug\_06.Implement_the_Data_Structure_ReversedList_T.exe
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\bin\Debug\_06.Implement_the_Data_Structure_ReversedList_T.pdb
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\obj\Debug\08.DoublyLinkedLists.Tests.dll
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\08.DoublyLinkedLists.Tests\obj\Debug\08.DoublyLinkedLists.Tests.pdb

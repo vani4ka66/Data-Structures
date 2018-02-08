@@ -1,8 +1,0 @@
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
-D:\Softuni Videos\Структури от данни\Homeworks\02.2. Circular-Queue-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

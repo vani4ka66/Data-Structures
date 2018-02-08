@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\06. Implement-the-Data-Structure-ReversedListT\bin\Debug\_06.Implement_the_Data_Structure_ReversedListT.exe.config
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\bin\Debug\_06.Implement_the_Data_Structure_ReversedListT.exe.config
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\bin\Debug\_06.Implement_the_Data_Structure_ReversedListT.exe
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\bin\Debug\_06.Implement_the_Data_Structure_ReversedListT.pdb
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\obj\Debug\06. Implement-the-Data-Structure-ReversedListT.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\obj\Debug\_06.Implement_the_Data_Structure_ReversedListT.exe
-C:\Users\User\Documents\Visual Studio 2015\Projects\26. Data Structures\01. Linear-Data-Structutes\06. Implement-the-Data-Structure-ReversedListT\obj\Debug\_06.Implement_the_Data_Structure_ReversedListT.pdb

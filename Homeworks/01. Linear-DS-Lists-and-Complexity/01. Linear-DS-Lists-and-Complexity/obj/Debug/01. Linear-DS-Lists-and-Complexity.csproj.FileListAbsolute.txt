@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe.config
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\01. Linear-DS-Lists-and-Complexity.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.exe
-c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
