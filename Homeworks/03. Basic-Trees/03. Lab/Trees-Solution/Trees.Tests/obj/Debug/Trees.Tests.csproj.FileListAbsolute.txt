@@ -1,0 +1,8 @@
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\bin\Debug\Trees.exe
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\bin\Debug\Trees.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\obj\Debug\Trees.Tests.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\03. Basic-Trees-Lab-Solution\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb
