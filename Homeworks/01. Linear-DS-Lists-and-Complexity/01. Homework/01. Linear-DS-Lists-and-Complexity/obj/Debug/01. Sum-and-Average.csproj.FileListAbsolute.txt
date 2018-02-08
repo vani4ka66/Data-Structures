@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.exe
+c:\users\user\documents\visual studio 2015\Projects\DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\26. DataStructutes\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
+C:\Users\User\Documents\GitHub\Data-Structures\Homeworks\01. Linear-DS-Lists-and-Complexity\01. Linear-DS-Lists-and-Complexity\bin\Debug\_01.Linear_DS_Lists_and_Complexity.exe.config
+C:\Users\User\Documents\GitHub\Data-Structures\Homeworks\01. Linear-DS-Lists-and-Complexity\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.exe
+C:\Users\User\Documents\GitHub\Data-Structures\Homeworks\01. Linear-DS-Lists-and-Complexity\01. Linear-DS-Lists-and-Complexity\obj\Debug\_01.Linear_DS_Lists_and_Complexity.pdb
