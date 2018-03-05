@@ -1,0 +1,9 @@
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.dll
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.pdb
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.exe
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.pdb
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.dll
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.pdb
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\PowerCollections.dll
+D:\Softuni Videos\Структури от данни\Задачи от изпити\02. Bunny-Wars - 13.09.2015\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\PowerCollections.xml

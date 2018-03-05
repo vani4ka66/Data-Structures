@@ -1,0 +1,8 @@
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe.config
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\bin\Debug\Scoreboard.pdb
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\bin\Debug\PowerCollections.dll
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\bin\Debug\PowerCollections.xml
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\obj\Debug\Scoreboard.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\obj\Debug\Scoreboard.exe
+D:\Softuni Videos\Структури от данни\Задачи от изпити\01. Scoreboard - 13.09.2015\C# Skeleton\Scoreboard\Scoreboard\obj\Debug\Scoreboard.pdb
