@@ -1,0 +1,14 @@
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\06. Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb

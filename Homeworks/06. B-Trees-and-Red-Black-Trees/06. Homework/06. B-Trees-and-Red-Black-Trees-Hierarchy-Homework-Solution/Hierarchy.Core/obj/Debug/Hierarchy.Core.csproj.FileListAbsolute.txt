@@ -1,0 +1,5 @@
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+D:\Softuni Videos\Структури от данни\Homeworks\00.06. B-Trees-and-Red-Black-Trees-Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb

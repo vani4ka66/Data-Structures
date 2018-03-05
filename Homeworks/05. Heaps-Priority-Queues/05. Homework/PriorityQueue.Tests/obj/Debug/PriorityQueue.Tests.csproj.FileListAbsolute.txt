@@ -1,0 +1,8 @@
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\bin\Debug\AStar.exe
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\bin\Debug\AStar.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.dll
+D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.pdb
