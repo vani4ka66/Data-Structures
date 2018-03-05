@@ -1,5 +1,0 @@
-D:\Softuni Videos\Структури от данни\Homeworks\05.1. Heaps-Priority-Queues-Lab-Solution\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.exe
-D:\Softuni Videos\Структури от данни\Homeworks\05.1. Heaps-Priority-Queues-Lab-Solution\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.pdb
-D:\Softuni Videos\Структури от данни\Homeworks\05.1. Heaps-Priority-Queues-Lab-Solution\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
-D:\Softuni Videos\Структури от данни\Homeworks\05.1. Heaps-Priority-Queues-Lab-Solution\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.exe
-D:\Softuni Videos\Структури от данни\Homeworks\05.1. Heaps-Priority-Queues-Lab-Solution\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.pdb

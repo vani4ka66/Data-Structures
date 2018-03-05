@@ -1,6 +1,0 @@
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\bin\Debug\AStar.exe.config
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\bin\Debug\AStar.exe
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\bin\Debug\AStar.pdb
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\obj\Debug\AStar.exe
-D:\Softuni Videos\Структури от данни\Homeworks\05. Heaps-Priority-Queues-Homework-Solution\AStar\AStar\obj\Debug\AStar.pdb

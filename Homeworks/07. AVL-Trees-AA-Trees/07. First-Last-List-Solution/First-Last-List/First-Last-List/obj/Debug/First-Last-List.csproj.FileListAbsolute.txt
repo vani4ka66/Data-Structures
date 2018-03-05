@@ -1,0 +1,8 @@
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe.config
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\bin\Debug\First-Last-List.pdb
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\bin\Debug\PowerCollections.dll
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\bin\Debug\PowerCollections.xml
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csprojResolveAssemblyReference.cache
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\obj\Debug\First-Last-List.exe
+D:\Softuni Videos\Структури от данни\Homeworks\07. AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Solution\First-Last-List\First-Last-List\obj\Debug\First-Last-List.pdb
